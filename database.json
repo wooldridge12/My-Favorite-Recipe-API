@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "email": "wooldridgemikey@gmail.com",
+      "name": "Michael Wooldridge",
+      "id": 1
+    },
+    {
+      "email": "nikki@gmail.com",
+      "name": "nikki Scordato",
+      "id": 2
+    },
+    {
+      "email": "Steve@gmail.com",
+      "name": "Steve Brownlee",
+      "id": 3
+    }
+  ],
+  "posts": [
+    {
+      "title": "Mikey's famous Burger",
+      "userId": 1,
+      "imageURL": "https://www.tasteofhome.com/wp-content/uploads/2020/03/Smash-Burgers_EXPS_TOHcom20_246232_B10_06_10b.jpg",
+      "ingredients": "1. Ground beef 2. Hawaiian Buns 3. Sweet pickles",
+      "instructions": "1. Cook burger until liking 2. Put burger on buns 3. add the cheese and pickles",
+      "id": 6
+    },
+    {
+      "title": "Nikki's Favorite Fries",
+      "userId": 2,
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/6/67/Fries_2.jpg",
+      "ingredients": "1. Ohio patatos 2. Salt and Peper 3. Chilli seasoning",
+      "instructions": "1. chop patatos up 2. Put on a pan 3. Heat up until golden 4. Apply seasoning as needed while heating up",
+      "id": 7
+    }
+  ],
+  "likes": []
+}
